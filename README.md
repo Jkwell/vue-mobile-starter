@@ -1,6 +1,6 @@
-# vue-mobile-scaffold
+# vue-mobile-starter
 
-
+[View README in English](https://github.com/JohnsenZhou/vue-mobile-starter/blob/master/README_en.md)
 
 > 基于 vue2 + vuex + vue-router 构建的移动端单页微应用，适合于vue2、vuex、vue-router核心概念的理解与掌握。
 
@@ -30,10 +30,10 @@
 
 ``` bash
 # 克隆本仓库
-git clone https://github.com/JohnsenZhou/vue-scaffold.git
+git clone https://github.com/JohnsenZhou/vue-mobile-starter.git
 
 # 进入仓库目录
-cd vue-scaffold
+cd vue-mobile-starter
 
 # 安装依赖
 npm install
